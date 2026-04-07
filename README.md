@@ -146,7 +146,7 @@ model.predict('data/images', save=True, conf=0.5)
 ```
 ---
 
-*For academic use only. Please cite if you use this dataset or model.*
+*For academic use only.*
 *仅限学术研究使用。*
 
 
